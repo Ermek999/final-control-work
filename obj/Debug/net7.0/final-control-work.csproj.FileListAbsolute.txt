@@ -1,0 +1,14 @@
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\bin\Debug\net7.0\final-control-work.exe
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\bin\Debug\net7.0\final-control-work.deps.json
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\bin\Debug\net7.0\final-control-work.runtimeconfig.json
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\bin\Debug\net7.0\final-control-work.dll
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\bin\Debug\net7.0\final-control-work.pdb
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\final-control-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\final-control-work.AssemblyInfoInputs.cache
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\final-control-work.AssemblyInfo.cs
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\final-control-work.csproj.CoreCompileInputs.cache
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\final-control-work.dll
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\refint\final-control-work.dll
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\final-control-work.pdb
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\final-control-work.genruntimeconfig.cache
+C:\Users\Ермек\OneDrive\Desktop\Гикбрейнс\1 раздел\final-control-work\obj\Debug\net7.0\ref\final-control-work.dll
