@@ -3,7 +3,7 @@ string[] array2 = new string[array1.Length];
 void SecondArray(string[] array1, string[] array2)
 {
     int count = 0;
-    for (int i = 0; 1 < array1.Length; i++)
+    for (int i = 0; i < array1.Length; i++)
     {
         if (array1[i].Length <= 3)
         {
@@ -21,4 +21,5 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 SecondArray(array1, array2);
+PrintArray(array1);
 PrintArray(array2);
